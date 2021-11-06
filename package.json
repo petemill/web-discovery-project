@@ -1,6 +1,6 @@
 {
   "name": "web-discovery-project",
-  "version": "1.1.44",
+  "version": "1.1.45",
   "description": "Standalone Web Discovery Project package and extension",
   "scripts": {
     "lint": "node fern.js lint",
@@ -82,7 +82,7 @@
     "concurrently": "6.3.0",
     "console-ui": "3.1.2",
     "cookie-parser": "1.4.5",
-    "eslint": "7.32.0",
+    "eslint": "8.2.0",
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-compat": "3.13.0",
     "eslint_d": "11.0.0",
